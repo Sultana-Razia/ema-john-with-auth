@@ -39,6 +39,11 @@
     border: none;
     font-size: 21px;
     color: #0E161A;
+    cursor: pointer;
+}
+
+.form-submit:hover {
+    background: rgba(255, 153, 0, 0.5);
 }
 
 .form-link {
